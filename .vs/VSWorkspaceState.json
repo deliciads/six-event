@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\pages",
+    "\\client\\src\\app\\pages\\contact",
+    "\\client\\src\\app\\pages\\services",
+    "\\client\\src\\assets",
+    "\\client\\src\\assets\\images"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
